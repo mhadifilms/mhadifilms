@@ -6,7 +6,7 @@ Some of my favorite experiments include:
 - A font finding app that replaces the standard MacOS Font Book application and has potential for a lot more functionality
 - A simple web app that generates prayer times as an .ics file for you to import directly into your calendar
 - A replacement for Premiere Pro's (horrible) subtitling thats way more accurate and gives more customization
-- A fork of another repo for moving from YouTube to Spotify, that I've added better logic for + turned into a Chrome extension that lets you save any song directly from your focused tab to Spotify
-- Lots more in the works :)
+- A Chrome extension that allows you to save any song from all major streaming services to a Spotify playlist of your choice
+- And lots more in the works :)
 
 Feel free to [reach out](info@awaiten.com) if you ever have any questions or concerns, or check out my other projects [here.](mhadi.tv)
