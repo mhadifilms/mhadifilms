@@ -9,4 +9,4 @@ Some of my favorite experiments include:
 - A Chrome extension that allows you to save any song from all major streaming services to a Spotify playlist of your choice
 - And lots more in the works :)
 
-Feel free to [reach out](info@awaiten.com) if you ever have any questions or concerns, or check out my other projects [here.](mhadi.tv)
+Feel free to [reach out](mailto:info@awaiten.com) if you ever have any questions or concerns, or check out my other projects [here.](https://mhadi.tv/)
