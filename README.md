@@ -1,6 +1,6 @@
 ## 👋 Hey, I'm M Hadi
 
-I've been a filmmaker for the past seven years, exploring the boundaries of creativity through the latest technology. I believe in the [power of prototyping with AI](https://open.substack.com/pub/mhadimedia/p/building-an-app-every-day-but-idk) to assist the creative process. Below, I've compiled some of my favorite eexperiments. Some are half-baked, and some never made it past a simple prototype. But the beauty is in the ability to have a prototype rather than just an idea lost in a notes app somewhere. Some of my favorite experiments include:
+I'm a filmmaker & editor of 7+ years with a passion for exploring the boundaries of creativity through the latest technology. I believe in the [power of prototyping with AI](https://open.substack.com/pub/mhadimedia/p/building-an-app-every-day-but-idk) to unlock creative potential. Below, I've compiled some of my favorite eexperiments. Some are half-baked, and some never made it past a simple prototype. But the beauty is in the ability to have a prototype rather than just an idea lost in a notes app somewhere. Some of my favorite experiments include:
 
 
 - [Arc Exporter](https://github.com/mhadifilms/arc-exporter): Switch to and from Arc Browser to Chrome, Zen, or Firefox... RIP Arc :(
@@ -12,4 +12,4 @@ I've been a filmmaker for the past seven years, exploring the boundaries of crea
 - [sheetsync](https://github.com/mhadifilms/sheetsync): Mac menu bar app to any Google sheet locally as an XLSX/CSV/JSON with backups and conflict resolution
 
 
-Feel free to play around, copy, tweak, and experiment with any of the repos - have fun :)
+Feel free to play around, tweak, and experiment with any of the repos - have fun :)
